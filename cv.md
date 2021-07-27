@@ -1,0 +1,1 @@
+1. Hi All. I'm Vitalii. I am a beginner JS developer. I will make every effort to become a cool specialist.
