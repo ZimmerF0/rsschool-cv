@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+
+    background: #03001e;  /* fallback for old browsers */
+    background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.card {
+    width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+
+    background-color: #fff;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 10px;
+}
+
+.card-photo {
+    display: block;
+    width: 300px;
+    height: 225px;
+    margin: 0 auto;
+    border-radius: 30%;
+}
+
+.card-title{
+    font-size: 20px;
+    text-align: center;
+    color: #f20ba2;
+}
+
+.card-text{
+    font-size: 14px;
+}
+
+.card-subtitle{
+    font-size: 18px;
+    color: darkorange;
+    margin: 0 auto;
+}
+
+.card-list{
+    padding-left: 0;
+    list-style-position: inside;
+    font-size: 14px;
+}
